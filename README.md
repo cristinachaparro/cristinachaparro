@@ -11,7 +11,7 @@
 </div>
 
 ## About me
-- 🔭 I’m currently working on making the most of my internship
+- 🔭 I’m currently working as a full time mom
 - 🌱 I’m currently learning Typescript and Tailwind
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I write fantasy and sci-fi novels in my free time!
