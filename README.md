@@ -11,10 +11,10 @@
 </div>
 
 ## About me
-- 🔭 I’m currently working as a full time mom and developing a new web called Gift Me!
-- 🌱 I’m currently learning Typescript and Tailwind
+- 🔭 Project Manager moving into tech
+- 🌱 Currently learning to build things with AI
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I write fantasy and sci-fi novels in my free time!
+- ⚡ Fun fact: I love drawing!
 
 ## Languages and Tools
 <div id="badges" align="center">
